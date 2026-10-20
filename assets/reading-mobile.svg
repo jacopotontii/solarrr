@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="1120" viewBox="0 0 700 1120" role="img" aria-labelledby="title">
+<title id="title">Read. Inspect. Connect.</title>
+<defs><linearGradient id="night" x2="1" y2="1"><stop stop-color="#15110f"/><stop offset=".55" stop-color="#090a0b"/><stop offset="1" stop-color="#211109"/></linearGradient></defs>
+<rect width="700" height="1120" rx="70" fill="url(#night)"/>
+<text x="66" y="82" fill="#d69e77" font-family="Arial,Helvetica,sans-serif" font-size="21" letter-spacing="3">THE READING EXPERIENCE</text>
+<path d="M66 121H634 M66 438H634 M66 755H634" stroke="#ffb576" stroke-opacity=".18"/>
+<g font-family="Arial,Helvetica,sans-serif">
+<g transform="translate(66 0)"><text y="190" fill="#f38a45" font-size="23" letter-spacing="3">01</text><text y="280" fill="#fff3e3" font-size="76" font-weight="600" letter-spacing="-3">Read.</text><text y="345" fill="#bcb3a9" font-size="28">Open the story.</text><text y="388" fill="#bcb3a9" font-size="28">Take in the details.</text></g><g transform="translate(66 317)"><text y="190" fill="#f38a45" font-size="23" letter-spacing="3">02</text><text y="280" fill="#fff3e3" font-size="76" font-weight="600" letter-spacing="-3">Inspect.</text><text y="345" fill="#bcb3a9" font-size="28">See the checked claims.</text><text y="388" fill="#bcb3a9" font-size="28">Open the supporting sources.</text></g><g transform="translate(66 634)"><text y="190" fill="#f38a45" font-size="23" letter-spacing="3">03</text><text y="280" fill="#fff3e3" font-size="76" font-weight="600" letter-spacing="-3">Connect.</text><text y="345" fill="#bcb3a9" font-size="28">Save what matters.</text><text y="388" fill="#bcb3a9" font-size="28">Explore related stories.</text></g>
+</g></svg>

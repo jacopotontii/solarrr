@@ -6,3 +6,4 @@ node_modules/
 .cache/
 tmp/
 *.log
+.preview/

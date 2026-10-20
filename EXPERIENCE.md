@@ -1,59 +1,59 @@
-[← SOLARRR](README.md)
+[← Solarrr](README.md) &nbsp;·&nbsp; [How verification works](VERIFICATION.md)
 
-# The experience
+# Inside Solarrr.
 
-SOLARRR is in development across iOS, macOS and the web.
+A closer look at the native apps. Every screen below was captured from a development build with demonstration content.
 
-## iOS
+## On iPhone
 
-![iOS](assets/ios.svg)
+### Read, then look closer.
 
-A native reading experience for iPhone.
+Start with your feed. Open the article. Bring its analysis into view without losing the story you came to read.
 
-- Browse the daily feed by topic and open individual stories.
-- Check links, written claims and text extracted from images.
-- Inspect verification reports, checked claims and supporting sources.
-- Return to saved stories and previous checks in your library.
+<picture>
+  <source media="(max-width: 700px)" srcset="assets/reading-mobile.png">
+  <img src="assets/reading.png" width="100%" alt="Native iPhone article reading and claim analysis, with the news feed also shown in the wide composition. Demonstration data.">
+</picture>
 
-## macOS
+[Feed](assets/screens/iphone-feed.png) &nbsp;·&nbsp; [Reader](assets/screens/iphone-reader.png) &nbsp;·&nbsp; [Analysis](assets/screens/iphone-analysis.png)
 
-![macOS](assets/macos.svg)
+### Check something of your own.
 
-A native workspace for reading across a larger canvas.
+Choose a link, a written claim, or text extracted from an image. Review the report and return to previous checks through the app's history. The availability of history and other features depends on the account and plan.
 
-- Follow topics and outlets.
-- Read articles alongside verification and source information.
-- Explore related stories.
-- Revisit saved work through the library and constellation views.
+<picture>
+  <source media="(max-width: 700px)" srcset="assets/verification-mobile.png">
+  <img src="assets/verification.png" width="100%" alt="The iPhone Verify screen alongside an article analysis screen, captured from the native development app.">
+</picture>
 
-## Web
+[What the assessment means →](VERIFICATION.md)
 
-![Web](assets/web.svg)
+## On Mac
 
-A browser reading app for exploring the news.
+### A workspace for a wider view.
 
-- Browse and search the story archive.
-- Open dedicated article pages.
-- Save stories for later.
+The native Mac app gives the story, its context and the reading tools more space. Move between news, verification and the library from a persistent sidebar.
 
-## Behind the reading
+<img src="assets/screens/mac-feed.png" width="100%" alt="The native Solarrr Mac news workspace, with sidebar navigation and a news feed. Demonstration content.">
 
-![Core](assets/core.svg)
+### Another way into the day.
 
-**Core** gives the Apple apps a shared foundation for their reading and verification features.
+Daybreak gives the day's lead story its own space within the Mac workspace.
 
-![Engine](assets/engine.svg)
+<img src="assets/screens/mac-daybreak.png" width="100%" alt="Solarrr Daybreak, a native Mac overview of the news, captured with demonstration data.">
 
-**Engine** supports news processing and verification. A useful assessment should leave room to inspect its sources and understand what was checked.
+## In the browser
 
-## The public site
+The Web app is being developed around a searchable story archive, dedicated article pages and saved reading. The public introduction and waitlist live at [solarrr.app](https://solarrr.app).
 
-[![Landing](assets/landing.svg)](https://solarrr.app)
+The Web app is not pictured here; the screenshots on this page are native iPhone and Mac captures.
 
-[Visit solarrr.app →](https://solarrr.app)
+## The small things matter.
 
-The landing page is available now. App distribution and feature availability will be communicated separately.
+Readable article surfaces. A clear distinction between orange brand accents and verdict colours. Source links that take you beyond the label. Explicit uncertainty when a result is unavailable.
+
+These are the principles behind Solarrr's reading experience. Feature parity, distribution and release availability are still in development.
 
 ---
 
-[Back to SOLARRR](README.md) · [Jacopo Tonti](https://github.com/jacopotontii)
+[Back to Solarrr →](README.md) &nbsp;·&nbsp; [Follow the evidence →](VERIFICATION.md)
